@@ -1,0 +1,6 @@
+f:\documents\visual studio 2015\Projects\JpWebServer\JpWebServer\bin\Debug\JpWebServer.exe.config
+f:\documents\visual studio 2015\Projects\JpWebServer\JpWebServer\bin\Debug\JpWebServer.exe
+f:\documents\visual studio 2015\Projects\JpWebServer\JpWebServer\bin\Debug\JpWebServer.pdb
+f:\documents\visual studio 2015\Projects\JpWebServer\JpWebServer\obj\Debug\JpWebServer.csprojResolveAssemblyReference.cache
+f:\documents\visual studio 2015\Projects\JpWebServer\JpWebServer\obj\Debug\JpWebServer.exe
+f:\documents\visual studio 2015\Projects\JpWebServer\JpWebServer\obj\Debug\JpWebServer.pdb
